@@ -1,0 +1,20 @@
+name: mockiTest
+port: 4000
+endpoints:
+  - path: //adminportal2/userDetails
+    method: get
+    responses:
+      - statusCode: 200
+        body:
+          userFullName: Hello from Mocki!
+          
+          
+          userFullName :Inez Nelson
+          userEmail :testing@motus.com
+          id:255130
+          userStartDate:1900-01-01
+          userName:akore
+          userRole:Internal Admin
+          orgUnitId:363
+          userId:135899
+          orgUnitName:Motus
