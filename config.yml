@@ -6,9 +6,6 @@ endpoints:
     responses:
       - statusCode: 200
         body:
-          userFullName: Hello from Mocki!
-          
-          
           userFullName :Inez Nelson
           userEmail :testing@motus.com
           id:255130
